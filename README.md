@@ -65,6 +65,9 @@ digicustinfoo-frontend / # Frontend
 
 ✨ Future Enhancements
 OTP-based verification for email/phone
+
 Admin dashboard to manually verify submissions
+
 Integrate Aadhaar / PAN verification APIs
+
 Connect to core banking system for real account creation
