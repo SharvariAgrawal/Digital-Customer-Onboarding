@@ -55,6 +55,6 @@ digicustinfoo-frontend / # Frontend
 ---
 
 ## 📸 Screenshots
-![Form UI] (https://raw.githubusercontent.com/SharvariAgrawal/Digital-Customer-Onboarding/7215a3bb9bd5f84521a386eca911f8612ce7f08d/screenshots/Firstpage.png)
+![Form UI](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/6322b5557788b93bb604c989b71554f65f92f4e9/Firstpage.png)
 
 
