@@ -63,7 +63,8 @@ digicustinfoo-frontend / # Frontend
 
 ---
 
-✨ Future Enhancements
+✨ **Future Enhancements**
+
 OTP-based verification for email/phone
 
 Admin dashboard to manually verify submissions
