@@ -56,5 +56,15 @@ digicustinfoo-frontend / # Frontend
 
 ## 📸 Screenshots
 ![Form UI](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/6322b5557788b93bb604c989b71554f65f92f4e9/Firstpage.png)
+![Form UI](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/dc2366000a3b608b4cff3f6559ad3733cfd18a9e/Secondpage.png)
+![Form UI](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/dc2366000a3b608b4cff3f6559ad3733cfd18a9e/Documentpage.png)
+![Form UI](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/dc2366000a3b608b4cff3f6559ad3733cfd18a9e/OTPpage.png)
+![Success Message](https://github.com/SharvariAgrawal/Digital-Customer-Onboarding/blob/dc2366000a3b608b4cff3f6559ad3733cfd18a9e/Confirmation.png)
 
+---
 
+✨ Future Enhancements
+OTP-based verification for email/phone
+Admin dashboard to manually verify submissions
+Integrate Aadhaar / PAN verification APIs
+Connect to core banking system for real account creation
