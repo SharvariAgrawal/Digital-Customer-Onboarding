@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Building base with gradient -->
+  <rect x="6" y="14" width="20" height="14" fill="url(#gradient1)"/>
+  <!-- Roof with accent color -->
+  <path d="M16 4L28 14H4L16 4Z" fill="#0EA5E9"/>
+  <!-- Columns with teal -->
+  <rect x="9" y="16" width="2" height="10" fill="#5EEAD4"/>
+  <rect x="15" y="16" width="2" height="10" fill="#5EEAD4"/>
+  <rect x="21" y="16" width="2" height="10" fill="#5EEAD4"/>
+  <!-- Steps with darker purple -->
+  <rect x="8" y="28" width="16" height="2" fill="#6D28D9"/>
+  <!-- Define gradients -->
+  <defs>
+    <linearGradient id="gradient1" x1="6" y1="14" x2="26" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+</svg> 
