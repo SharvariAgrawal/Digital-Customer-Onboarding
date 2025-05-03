@@ -55,7 +55,6 @@ digicustinfoo-frontend / # Frontend
 ---
 
 ## 📸 Screenshots
-```markdown
-![Form UI](./screenshots/Firstpage.png)
+
 
 
