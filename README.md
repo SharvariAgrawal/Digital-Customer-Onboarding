@@ -1,4 +1,4 @@
-# 🏦 Digital Customer Onboarding – Online Bank Account Opening System (Full Stack)
+# 🏦 Digital Customer Onboarding – Online Bank Account Opening System 
 
 **DigiCust** is a full-stack web application that enables customers to **open a new bank account online** without visiting a physical branch. Users can securely submit personal details and upload verification documents, which are processed by a Java Spring Boot backend system.
 
